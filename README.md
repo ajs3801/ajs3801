@@ -1,6 +1,5 @@
-### Hello
+# 🌱
 
-I'm interested in Computer Vision and deep learning.
 <!--
 **ajs3801/ajs3801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
