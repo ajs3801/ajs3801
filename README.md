@@ -1,6 +1,6 @@
 ## 관심 분야
-1. front-end & back-end
-2. Computer Vision & AI
+- front-end & back-end
+- Computer Vision & AI
 ## 주로 사용하는 언어
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
