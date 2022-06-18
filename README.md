@@ -16,10 +16,11 @@
 
 ## 배우고 있는 언어 및 라이브러리
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+
 <!--
 **ajs3801/ajs3801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
