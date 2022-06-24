@@ -1,11 +1,12 @@
 ## 관심 분야
-- front-end & back-end
 - Computer Vision & AI
+- front-end & back-end
+
 ## 주로 사용하는 언어
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/java-3776AB?style=flat-square&logo=java&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cpp&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 
 ## 배운 언어 및 markdown 및 tool
 
