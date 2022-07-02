@@ -1,6 +1,6 @@
 ## 관심 분야
 - Computer Vision & AI
-- front-end & back-end
+- front-end
 
 ## 주로 사용하는 언어
 
